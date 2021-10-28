@@ -1,0 +1,9 @@
+Visa	visa1	Skye Salgado	4125152521820360	7	2022	106
+Master	master1	Jensen Stafford	7818219630910720	10	2022	239
+Amex	amex1	Ahmad Evans	5311369061807050	2	2023	437
+Discover	discover1	Brent Cameron	9369465338980450	6	2023	647
+Visa	visa1	Darla Mcgill	8729411955801410	1	2024	808
+Master	master2	Tamia Morrison	5473180039445320	1	2024	301
+Amex	amex2	Ubaid Ferrell	5167500398091370	8	2024	467
+Discover	discover2	Francesca Yang	7637339548782050	1	2025	956
+Visa	visa1	Zackery Dawe	3455065240229490	5	2025	395
